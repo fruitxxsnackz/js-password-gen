@@ -11,3 +11,4 @@ Note: I did google additional help with for loops (Math Random specifically).
 ## Deployed Application
 
 Link: 
+https://fruitxxsnackz.github.io/js-password-gen/
